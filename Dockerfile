@@ -1,6 +1,6 @@
 FROM python:alpine
 
-COPY src /
+COPY src /src
 
 WORKDIR /src
 
